@@ -6,5 +6,26 @@
 			"email": "ken...@gmail.com",
 			"bits": 500
 		}
+	},
+	"hackathons (collection)": {
+		"angelhacks (document)": {
+			"name": "AngelHacks",
+			"subtitle": "The best hackathon!",
+			"bits": 5000,
+			"participants": 200,
+			"tags": ["beginner", "minecraft"], // lowercase only
+			"time": {
+				"start": "DATE", // Timestamp
+				"end": "DATE", // Timestamp
+				"range": 1040103 // Milliseconds from start to end
+			},
+			"admins": {
+				"f3adD8ag": {
+					"image": "https://...",
+					"name": "Ken Mueller",
+					"role": "owner" // owner | organizer
+				}
+			}
+		}
 	}
 }
