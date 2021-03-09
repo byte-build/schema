@@ -1,0 +1,10 @@
+{
+	"users (collection)": {
+		"f3adD8ag (document)": {
+			"image": "https://...", // Profile Picture URL
+			"name": "Ken Mueller",
+			"email": "ken...@gmail.com",
+			"bits": 500
+		}
+	}
+}
