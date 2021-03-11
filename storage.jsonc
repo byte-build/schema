@@ -4,5 +4,8 @@
 	},
 	"prizes": {
 		"macbook-pro": "IMAGE"
+	},
+	"bits": {
+		"bit-bucket": "IMAGE"
 	}
 }
